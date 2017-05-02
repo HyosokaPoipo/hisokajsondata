@@ -1,0 +1,14 @@
+[
+  {
+    "id" : 0,
+    "name" : "hisoka",
+    "jutsu" : "bungejigum",
+    "point": 97
+  },
+  {
+    "id" : 1,
+    "name" : "itachi",
+    "jutsu" : "amaterasu",
+    "point": 94
+  }
+]
